@@ -9,7 +9,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "license": "MIT",
+     "require": {
+        "php": ">=5.3.0"
+    }
 }
 
 
