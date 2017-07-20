@@ -8,8 +8,6 @@
             "email": "cp.yugtia@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "license": "MIT",
      "require": {
         "php": ">=5.3.0"
     }
